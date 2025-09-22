@@ -24,5 +24,5 @@ This project was created as part of a database & backend development assignment.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/clinic-api.git
+git clone https://github.com/your-username/clinic-api.git](https://github.com/abiolalawal14/clinical-database
 cd clinic-api
