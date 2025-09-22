@@ -1,0 +1,19 @@
+{
+  "name": "clinic-app",
+  "version": "1.0.0",
+  "description": "Clinic booking CRUD API (Patients & Appointments)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.3.1",
+    "dotenv": "^16.0.3",
+    "body-parser": "^1.20.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
